@@ -1,2 +1,3 @@
 Here is my second file!
 It's a wonderful file!
+I added a line at the end aswell!
